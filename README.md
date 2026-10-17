@@ -183,13 +183,7 @@ Time(µs) | Sa | Sb | Road A | Road B
 ```
 
 ---
-
-## 👨‍💻 Developed By
-
-**Amaan Sami**  
-Final Year ECE | MANIT Bhopal  
-📧 amaansami2003@gmail.com  
-📱 9752118446  
+  
 
 ---
 
